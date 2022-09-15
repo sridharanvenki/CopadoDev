@@ -7,7 +7,7 @@ public class AccountHandler {
         for(Account a:acclist){
             AccountIds.add(a.id);
         }
-        system.debug('AccountIds:'+AccountIds);
+        //system.debug('AccountIds:'+AccountIds);
     }
     
     /*public static void queryAccDescription(){
